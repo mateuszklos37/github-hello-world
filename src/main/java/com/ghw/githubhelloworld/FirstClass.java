@@ -6,5 +6,6 @@ public class FirstClass {
 
     public void sayHello(){
         System.out.println("Just saying hello!");
+        System.out.println("Do you know how it works?");
     }
 }
